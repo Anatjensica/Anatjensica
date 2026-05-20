@@ -2,19 +2,18 @@
 <h3 align="center">Passionate frontend developer</h3>
 <h4 align="center">Software Engineer, Frontend Developer & UI/UX Designer</h4><br>
 
-- ⚡ Checkit out MY Portfolio on https://basicladyprogrammer.github.io/My-Portfolio/
 
-- 🔭 I’m currently working on Club Management System
+- 🔭 I’m currently Studying B.Sc Computer Science at University of Jaffna
 
-- 🌱 I’m currently learning **Python,NodeJs**
+- 🌱 I’m currently learning **Python,Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/basicladyprogrammer](https://github.com/basicladyprogrammer)
+- 👨‍💻 All of my activities are available at [https://github.com/basicladyprogrammer](https://www.linkedin.com/in/anat-jensica-826b13380/)
 
-- 📝 I regularly write articles on [https://medium.com/@sutharsirajan](https://medium.com/@sutharsirajan)
+- 📝 I regularly write articles on [https://medium.com/@sutharsirajan](https://medium.com/@jensi.rajan24)
 
-- 📫 How to reach me **sutharsirajan@gmail.com**
+- 📫 How to reach me **jensi.rajan24@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/sutharsi-rajan-4635641a1](https://www.linkedin.com/in/sutharsi-rajan-4635641a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2ui8nr8hQFeRvfGN51JoGg%3D%3D)]
+- 📄 Know about my experiences [[[https://www.linkedin.com/in/sutharsi-rajan-4635641a1](https://www.linkedin.com/in/anat-jensica-826b13380/)](https://www.linkedin.com/in/anat-jensica-826b13380/)]
 
 - ⚡ Fun fact **I'm funny😎😋**
 
