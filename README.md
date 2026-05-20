@@ -28,6 +28,3 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basicladyprogrammer&show_icons=true&locale=en" alt="basicladyprogrammer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basicladyprogrammer&" alt="basicladyprogrammer" /></p>
